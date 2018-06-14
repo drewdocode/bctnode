@@ -6,6 +6,7 @@ var noget = require('noget/src/translator');
 
 var day = new Date().getDate();
 var date = (new Date().getMonth() + 1) + '/' + (new Date().getDate()) + '/' + (new Date().getFullYear());
-var hashtags = day % 2 == 0 ? '#todaysMathematics #suprememathematics' : '#todaysMath #suprememathematics';
-tweeter.tweet(noget.toTodaysMath() + ' - ' + date + ' - ' + hashtags);
+var hashtags = day % 2 == 0 ? '#todaysMathematics #suprememathematics' : '#todaysMath #supremealphabet';
+//tweeter.tweet('Peace to the gods and earths, suns, moons and stars. ' + date);
+tweeter.tweet(date + '. Today\'s mathematics is - ' +  noget.toTodaysMath() + ' - ' + hashtags);
 

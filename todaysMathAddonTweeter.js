@@ -8,8 +8,9 @@ var date = new Date();
 var month = ("0" + (date.getMonth() + 1)).slice(-2);
 var day = ("0" + date.getDate()).slice(-2);
 var longdate = date.getFullYear() + '' + month + '' + day;
-var hashtags = day % 2 == 0 ? '#todaysMathematics #suprememathematics' : '#todaysMath #suprememathematics';
-tweeter.tweet(noget.toTodaysMathAddon() + ' - ' + longdate + ' - ' + hashtags);
+var hashtags = '#meditate';
+var intro = day % 2 == 0 ? 'Do the knowledge.' : 'Add on.';
+tweeter.tweet(intro + ' - ' + longdate + ' - ' + noget.toTodaysMathAddon()  + ' - ' + hashtags);
 
 
 
