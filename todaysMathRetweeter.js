@@ -60,21 +60,23 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('Eldridge Cleaver');
 		tweeter.searchAndRetweet('Noble Drew Ali');
 		tweeter.searchAndRetweet('Wallace Fard Muhammad');
-
-		break;
-	case 4:
-
 		tweeter.searchAndRetweet('Cheikh Anta Diop');
 		tweeter.searchAndRetweet('John Henrik Clarke');
 		tweeter.searchAndRetweet('Yosef Ben Jochannan');
 		tweeter.searchAndRetweet('Ivan Van Sertima');
 		tweeter.searchAndRetweet('Chancellor Williams'); 
+		
+		break;
+	case 4:
+
 		tweeter.searchAndRetweet('Marcus Garvey');
 		tweeter.searchAndRetweet('Malcolm X');
 		tweeter.searchAndRetweet('Minister Louis Farrakhan');
 		tweeter.searchAndRetweet('Minister Farrakhan');
 		tweeter.searchAndRetweet('Elijah Muhammad'); 
 		tweeter.searchAndRetweet('Bob Marley'); 
+		tweeter.searchAndRetweet('Nelson Mandela'); 
+		tweeter.searchAndRetweet('Winnie Mandela'); 
 		tweeter.searchAndRetweet('Clarence 13X Allah'); 
 		tweeter.searchAndRetweet('Leonard Howell'); 
 		tweeter.searchAndRetweet('Allah School in Mecca'); 
@@ -84,10 +86,13 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('Dr Amos Wilson'); 
 		tweeter.searchAndRetweet('Frances Cress Welsing');
 		tweeter.searchAndRetweet('Khalid Muhammad');
- 
+		tweeter.searchAndRetweet('Imphotep');
+		tweeter.searchAndRetweet('Maya Angelou');
+		
 		break;
 	case 5: 
 		
+		tweeter.searchAndRetweet('Marcus Mosiah Garvey'); 
 		tweeter.searchAndRetweet('Seneca'); 
 		tweeter.searchAndRetweet('epictetus');
 		tweeter.searchAndRetweet('ralph waldo emerson');
@@ -97,10 +102,9 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('mahatma gandhi'); 
 		tweeter.searchAndRetweet('Marcus Aurelius'); 
 		tweeter.searchAndRetweet('Napoleon Hill');
-		tweeter.searchAndRetweet('Zig Ziglar'); 
 		tweeter.searchAndRetweet('Dale Carnegie');
-		tweeter.searchAndRetweet('Jim Rohn');
-		tweeter.searchAndRetweet('Imphotep');
+		tweeter.searchAndRetweet('Thich Nhat Hanh');
+		tweeter.searchAndRetweet('%23dalialama');
 
 		break;
 	case 6: 
@@ -108,17 +112,24 @@ switch(new Date().getDay()) {
  	 	tweeter.searchAndRetweet('"Message to the Blackman"');
     		tweeter.searchAndRetweet('"How to Eat to Live"');
     		tweeter.searchAndRetweet('"Understanding the Assault on the Black Man, Black Manhood and Black Masculinity"');
-    		tweeter.searchAndRetweet('8020 rule');
+		tweeter.searchAndRetweet('autobiography of Malcolm X');
+		tweeter.searchAndRetweet('8020 rule');
     		tweeter.searchAndRetweet('"simplicity simplicity simplicity"');
     		tweeter.searchAndRetweet('"run away from the 90 percent"');
     		tweeter.searchAndRetweet('"as a man thinketh"');
     		tweeter.searchAndRetweet('"better in tune with the infinite" Electronica');
     		tweeter.searchAndRetweet('"think and grow rich"');
+    		tweeter.searchAndRetweet('"the kingdom of God is within you"');
+    		tweeter.searchAndRetweet('"seek first the kingdom"');
+    		tweeter.searchAndRetweet('"fear none but God"');
     		tweeter.searchAndRetweet('%23LaoTzu'); 
     		tweeter.searchAndRetweet('%23SunTzu');
     		tweeter.searchAndRetweet('%23cointelpro');
     		tweeter.searchAndRetweet('%23mkultra');
     		tweeter.searchAndRetweet('%23socialengineering');
+    		tweeter.searchAndRetweet('%23Adinkra');
+    		tweeter.searchAndRetweet('ankh symbol');
+    		tweeter.searchAndRetweet('yin yang symbol');
 
 		break;
 	default: 
