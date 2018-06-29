@@ -4,8 +4,15 @@ var twitter = new T(twitterApiConf);
 var tweeter = require('./tweeter');
 var noget = require('noget/src/translator');
 
+// TODO:
+// externalize retweet keyword terms into a file for each day of the week
+// improve the accuracy of the keyword terms in terms of the bornciphertruth brand mission
+// make retweet functionality intelligent enough to identify junk or irrelevant retweets
+// add functinality for replying to tweets with relevant text 
+
 switch(new Date().getDay()) {
-	case 0: 
+	
+	case 0: // Sunday
 
 		tweeter.searchAndRetweet('%23alkebulan');
 		tweeter.searchAndRetweet('%23kemet black');
@@ -19,6 +26,7 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('%23taoism');
 
 		break;
+	
 	case 1: 
 
 		tweeter.searchAndRetweet('bible proverbs');
@@ -38,6 +46,7 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('bushido proverb');
 
 		break;
+	
 	case 2: 
 
 		tweeter.searchAndRetweet('bible wisdom');
@@ -49,7 +58,16 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('native american wisdom');
 		tweeter.searchAndRetweet('bushido code');
 
+		tweeter.searchAndRetweet('quantum physics');
+		tweeter.searchAndRetweet('quantum entanglement');
+		tweeter.searchAndRetweet('quantum mechanics');
+		tweeter.searchAndRetweet('quantum theory');
+		tweeter.searchAndRetweet('double slit test');
+		tweeter.searchAndRetweet('wave particle duality');
+		tweeter.searchAndRetweet('the red pill');
+
 		break;
+	
 	case 3: 
 
 		tweeter.searchAndRetweet('black panther movement');
@@ -67,6 +85,7 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('Chancellor Williams'); 
 		
 		break;
+	
 	case 4:
 
 		tweeter.searchAndRetweet('Marcus Garvey');
@@ -90,7 +109,8 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('Maya Angelou');
 		
 		break;
-	case 5: 
+
+	case 5:  
 		
 		tweeter.searchAndRetweet('Marcus Mosiah Garvey'); 
 		tweeter.searchAndRetweet('Seneca'); 
@@ -107,6 +127,7 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('%23dalialama');
 
 		break;
+
 	case 6: 
 
  	 	tweeter.searchAndRetweet('"Message to the Blackman"');
@@ -120,9 +141,10 @@ switch(new Date().getDay()) {
     		tweeter.searchAndRetweet('"better in tune with the infinite" Electronica');
     		tweeter.searchAndRetweet('"think and grow rich"');
     		tweeter.searchAndRetweet('"the kingdom of God is within you"');
-    		tweeter.searchAndRetweet('"seek first the kingdom"');
+    		tweeter.searchAndRetweet('seek first the kingdom');
     		tweeter.searchAndRetweet('"fear none but God"');
     		tweeter.searchAndRetweet('%23LaoTzu'); 
+    		tweeter.searchAndRetweet('%23Confucius'); 
     		tweeter.searchAndRetweet('%23SunTzu');
     		tweeter.searchAndRetweet('%23cointelpro');
     		tweeter.searchAndRetweet('%23mkultra');
@@ -132,7 +154,9 @@ switch(new Date().getDay()) {
     		tweeter.searchAndRetweet('yin yang symbol');
 
 		break;
+
 	default: 
+
 		tweeter.searchAndRetweet('%23Wisdom african');
 }
 
