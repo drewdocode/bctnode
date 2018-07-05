@@ -1,7 +1,6 @@
 var T = require('twit');
 var twitterApiConf = require(process.env.BCT_TWTR_CONF_PATH);
 var twitter = new T(twitterApiConf);
-var noget = require('noget/src/translator');
 
 tweet = function(message) {
 	twitter.post('statuses/update', { status: message }, function(err, data, response) {
@@ -23,7 +22,13 @@ search = function(searchQuery) {
 
 searchAndRetweet = function(searchQuery) {
 	twitter.get('search/tweets', { q: searchQuery }, function(err, data, response) {
-		retweet(data.statuses[0].id_str);
+		var firstStatus = data.statuses[0];
+		if(firstStatus) {
+			retweet(firstStatus.id_str);
+		}
+		else {
+			console.log('nothing to retweet for search query: ' + searchQuery);
+		}
 	});
 };
 
