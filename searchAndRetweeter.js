@@ -14,7 +14,7 @@ switch(new Date().getDay()) {
 	
 	case 0: // Sunday
 
-		tweeter.searchAndRetweet('%23alkebulan');
+		tweeter.searchAndRetweet('alkebulan');
 		tweeter.searchAndRetweet('%23kemet black');
 		tweeter.searchAndRetweet('kemet black');
 		tweeter.searchAndRetweet('%23sankofa black');
@@ -109,13 +109,13 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('"Khalid Muhammad"');
 		tweeter.searchAndRetweet('Imphotep');
 		tweeter.searchAndRetweet('"Maya Angelou"');
+		tweeter.searchAndRetweet('"Mike Tyson"');
 		
 		break;
 
 	case 5:  
 	
 		tweeter.searchAndRetweet('"Marcus Mosiah Garvey"'); 
-		tweeter.searchAndRetweet('Tecumseh'); 
 		tweeter.searchAndRetweet('Seneca'); 
 		tweeter.searchAndRetweet('epictetus stoicism');
 		// tweeter.searchAndRetweet('ralph waldo emerson');
@@ -131,7 +131,19 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('"Kemetic Science"');
 		tweeter.searchAndRetweet('"Arawak Indians"');
 		tweeter.searchAndRetweet('"Carib Indians"');
-		tweeter.searchAndRetweet('Jamaican Maroon Maroons');
+		tweeter.searchAndRetweet('Jamaica Jamaican Maroon Maroons');
+		
+		tweeter.searchAndRetweet('"Tupac Shakur"');
+		tweeter.searchAndRetweet('"Fredrick Douglass"');
+		tweeter.searchAndRetweet('"Anna Murray-Douglass"');
+		tweeter.searchAndRetweet('"Harriet Tubman"');
+		tweeter.searchAndRetweet('"Nat Turner"');
+		tweeter.searchAndRetweet('"Denmark Vesey"');
+		tweeter.searchAndRetweet('"Gabriel Prosser"');
+		tweeter.searchAndRetweet('"Sojourner Truth"');
+		tweeter.searchAndRetweet('"Sista Solja"');
+		tweeter.searchAndRetweet('Bookman Boukman Jamaican revolution');
+		tweeter.searchAndRetweet('Yasuke African black samurai');
 
 		break;
 
