@@ -25,6 +25,8 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('Dimethyltryptamine');
 		tweeter.searchAndRetweet('%23taoism');
 		tweeter.searchAndRetweet('"Psychology and Alchemy"');
+		tweeter.searchAndRetweet('%23todaysmath');
+		tweeter.searchAndRetweet('%23todaysmathematics');
 
 		break;
 	
@@ -54,6 +56,9 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('"jamaican wisdom"');
 		tweeter.searchAndRetweet('"native american wisdom"');
 		
+		tweeter.searchAndRetweet('%23todaysmath');
+		tweeter.searchAndRetweet('%23todaysmathematics');
+		
 		break;
 	
 	case 2: 
@@ -68,6 +73,9 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('"wave particle duality"');
 		tweeter.searchAndRetweet('"the red pill"');
 
+		tweeter.searchAndRetweet('%23todaysmath');
+		tweeter.searchAndRetweet('%23todaysmathematics');
+		
 		break;
 	
 	case 3: 
@@ -85,6 +93,9 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('Yosef Ben Jochannan');
 		tweeter.searchAndRetweet('Ivan Van Sertima');
 		tweeter.searchAndRetweet('"Chancellor Williams"'); 
+		
+		tweeter.searchAndRetweet('%23todaysmath');
+		tweeter.searchAndRetweet('%23todaysmathematics');
 		
 		break;
 	
@@ -110,6 +121,9 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('Imphotep');
 		tweeter.searchAndRetweet('"Maya Angelou"');
 		tweeter.searchAndRetweet('"Mike Tyson"');
+		
+		tweeter.searchAndRetweet('%23todaysmath');
+		tweeter.searchAndRetweet('%23todaysmathematics');
 		
 		break;
 
@@ -145,6 +159,9 @@ switch(new Date().getDay()) {
 		tweeter.searchAndRetweet('Bookman Boukman Jamaican revolution');
 		tweeter.searchAndRetweet('Yasuke African black samurai');
 
+		tweeter.searchAndRetweet('%23todaysmath');
+		tweeter.searchAndRetweet('%23todaysmathematics');
+		
 		break;
 
 	case 6: 
@@ -172,102 +189,14 @@ switch(new Date().getDay()) {
     		tweeter.searchAndRetweet('ankh symbol');
     		tweeter.searchAndRetweet('"yin yang" symbol');
 
+		tweeter.searchAndRetweet('%23todaysmath');
+		tweeter.searchAndRetweet('%23todaysmathematics');
+		
 		break;
 
 	default: 
 
 		tweeter.searchAndRetweet('%23Wisdom african');
 }
-
-/*
-
-create arrays for the following mon, tues, wed, etc 
-
-#alkebulan
-#kemet black
-kemet black
-#sankofa black
-sankofa black
-#maat black 
-maat black 
-yin yang balance 
-Dimethyltryptamine
-#taoism
-
-bible proverbs
-african proverbs
-black proverbs
-chinese proverbs
-japanese proverbs
-jamaican proverbs
-native american proverbs
-bible proverb
-african proverb
-
-black proverb
-chinese proverb
-japanese proverb
-jamaican proverb
-native american proverb
-bible wisdom
-african wisdom
-black wisdom
-chinese wisdom
-japanese wisdom
-
-jamaican wisdom
-native american wisdom
-black panther movement
-Angela Davis 
-Assata Shakur 
-Huey Newton 
-Fred Hampton 
-Eldridge Cleaver 
-Noble Drew Ali
-
-Cheikh Anta Diop
-John Henrik Clarke 
-Yosef Ben Jochannan 
-Ivan Van Sertima 
-Chancellor Williams 
-Marcus Garvey
-Malcolm X
-Minister Louis Farrakhan
-Minister Farrakhan
-Elijah Muhammad 
-Bob Marley 
-Clarence 13X Allah 
-Leonard Howell 
-Allah School in Mecca 
-Muhammad Ali
-Stokely Carmichael
-Kwame Ture 
-Dr Amos Wilson 
-Frances Cress Welsing 
-
-Seneca 
-epictetus
-ralph waldo emerson
-henry david thoreau
-leo tolstoy 
-dostoyevsky 
-Marcus Aurelius 
-Napoleon Hill
-Zig Ziglar 
-Dale Carnegie 
-Jim Rohn 
-Imphotep
-
-8020 rule 
-"simplicity simplicity simplicity"
-"run away from the 90 percent"
-"as a man thinketh"
-"better in tune with the infinite" Electronica
-"think and grow rich" 
-#LaoTzu 
-#SunTzu
- 
-
-*/
 
 
