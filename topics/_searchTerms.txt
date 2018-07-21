@@ -1,6 +1,4 @@
 
-
-
 alkebulan
 #kemet black
 kemet black
@@ -12,35 +10,63 @@ maat black
 Dimethyltryptamine
 #taoism
 "Psychology and Alchemy"
-"bible proverbs"
-"african proverbs"
-"black proverbs"
-"chinese proverbs"
-"japanese proverbs"
-"jamaican proverbs"
-"native american proverbs"
-"bible proverb"
-"african proverb"
-"black proverb"
-"chinese proverb"
-"japanese proverb"
-"jamaican proverb"
-"native american proverb"
-"bushido proverb"
-"bible wisdom"
-"african wisdom"
-"black wisdom"
-"chinese wisdom"
-"japanese wisdom"
-"jamaican wisdom"
-"native american wisdom"
+"GOD drug"
+"psychadelics"
+"stoned ape theory"
+
 bushido code
+"GOD consciousness"
+"dark matter"
+"GOD awareness"
+"GOD body"
+"knowledge of self"
+"prana"
+"dharma"
+"yoga"
+"yogi"
+"yogic"
+"GOD principle"
+"GOD's principles"
+"ten commandments"
+"Hammurabi code"
+"Hammurabi's code"
+"Christ Consciousness"
+"Christ Conscious"
+"third eye"
+"third eye chakra"
+"brow chakra"
+"ajna chakra"
+"bhru madhya"
+"dvidak padma"
+"sacral chakra"
+"svadhisthana chakra"
+
+"vipassana meditation"
 "quantum physics"
 "quantum entanglement"
 "quantum mechanics"
 "quantum theory"
 "double slit" test"
 "wave particle duality"
+"sacred geometry"
+"flower of life"
+"metatron's cube"
+"egg of life"
+"golden ratio"
+"golden mean"
+"golden trisection"
+
+"astral plane"
+"fruit of life"
+"God arithmetizes"
+"feng shui"
+"power of now"
+"Eckart Tolle"
+"kemetic priest"
+"egyptian priest"
+"kemetic priests"
+"egyptian priests"
+
 "the red pill"
 "black panther movement"
 "Angela Davis"
@@ -48,7 +74,7 @@ Assata Shakur
 Huey Newton
 "Fred Hampton"
 "Eldridge Cleaver"
-Noble Drew Ali
+"Noble Drew Ali"
 Wallace Fard Muhammad
 Cheikh Anta Diop
 John Henrik Clarke
@@ -60,6 +86,7 @@ Malcolm X
 "Minister Louis Farrakhan"
 "Minister Farrakhan"
 "Elijah Muhammad"
+"Khalid Muhammad"
 "Bob Marley"
 "Nelson Mandela"
 "Winnie Mandela"
@@ -87,6 +114,21 @@ Marcus Aurelius
 "Napoleon Hill"
 "Dale Carnegie"
 "Thich Nhat Hanh"
+Imhotep
+Ptahotep
+Amenemhat
+Merikare
+Duauf
+Amenhotep
+"son of Hapu"
+Akhenaten
+"sage of Khunanup"
+"Maxims of Ptahhotep"
+"The Ubaid" 
+Annunaki
+"pyramid mystery"
+"pyramid mysteries"
+
 #dalialama
 "Kemetic Science"
 "Arawak Indians"
@@ -116,14 +158,21 @@ autobiography of Malcolm X
 "the kingdom of God is within you"
 seek first the kingdom
 "fear none but God"
-#LaoTzu
-#Confucius
-#SunTzu
-#cointelpro
-#mkultra
-#socialengineering
-#Adinkra
+Zhuangzi
+LaoTzu
+Confucius
+SunTzu
+cointelpro
+mkultra
+socialengineering
+Adinkra
 ankh symbol
 "yin yang" symbol
+"black star line"
+
+"triangular trade"
+"slave trade"
+"african slaves"
+"apartheid"
 
 
